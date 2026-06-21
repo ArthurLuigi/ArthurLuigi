@@ -82,19 +82,19 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=FindArtDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ArthurLuigi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FindArtDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="FindArtDev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=FindArtDev&bg_color=0000E&color=ffff&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ArthurLuigi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ArthurLuigi&bg_color=0000E&color=ffff&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FindArtDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ArthurLuigi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FindArtDev&icon=5&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ArthurLuigi&icon=5&color=9)](https://visitcount.itsvg.in)
 
 </details>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933ff&height=120&section=footer"/>
