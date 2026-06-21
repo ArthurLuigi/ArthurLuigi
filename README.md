@@ -75,10 +75,6 @@
 
 
 <details close> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-<h3>🔥 Streak Stats</h3>
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=FindArtDev&theme=dark&hide_border=false)
-
+ 
 </details>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933ff&height=120&section=footer"/>
